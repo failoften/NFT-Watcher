@@ -1,0 +1,21 @@
+{
+  "name": "NFT Slideshow",
+  "short_name": "NFT Show",
+  "description": "An automatic NFT slideshow for Chromecast",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-large.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
